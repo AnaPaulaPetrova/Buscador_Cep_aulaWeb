@@ -1,5 +1,5 @@
 # Projeto buscador de Ceps
-O objetivo do projeto é pesquisar CEPs em uma api camada https://viacep.com.br/ws/${cep.value}/json/
+O objetivo do projeto é pesquisar CEPs em uma api camada https://viacep.com.br/ws/62823000/json/
 
 ## Design do projeto
 ![Design do projeto](image.png)
